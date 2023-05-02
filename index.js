@@ -4,7 +4,7 @@ const cors = require('cors');
 const port = process.env.PORT || 5000;
 
 const allCheifs = require('./data/cheifInfo.json')
-const allReceipe = require('/data/allrecipe.json')
+const allReceipe = require('./data/allrecipe.json')
 
 app.use(cors());
 
