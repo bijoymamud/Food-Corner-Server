@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://st.depositphotos.com/1518767/4293/i/450/depositphotos_42930411-stock-photo-concentrated-male-chef-garnishing-food.jpg",
+    "chef_name": "John Smith",
+    "years_of_experience": 15,
+    "number_of_recipes": 200,
+    "likes": "5K+"
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://www.sait.ca/assets/images/sait/programs/pr-culinary-arts-600x400.jpg",
+    "chef_name": "Emily Johnson",
+    "years_of_experience": 10,
+    "number_of_recipes": 150,
+    "likes": "3K+"
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://images.getbento.com/accounts/8611498a7dcd1ea1602f40e4e0f741ab/media/images/82552damarr_headshot.jpg?w=600&fit=max&auto=compress,format&h=600",
+    "chef_name": "Michael Davis",
+    "years_of_experience": 20,
+    "number_of_recipes": 300,
+    "likes": "8K+"
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://foodtruckempire.com/wp-content/uploads/chef-5993954_1280-600x400.jpg",
+    "chef_name": "Sophia Anderson",
+    "years_of_experience": 8,
+    "number_of_recipes": 100,
+    "likes": "2K+"
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://i0.wp.com/businessday.ng/wp-content/uploads/2017/04/Chef-Tiyan-2.jpg?fit=600%2C400",
+    "chef_name": "Daniel Martinez",
+    "years_of_experience": 12,
+    "number_of_recipes": 180,
+    "likes": "4K+"
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_400,w_600,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1200/Screenshot_2021-02-08_Shota_Nakajima_s___chefshota__profile_on_Instagram___352_posts_ngzs7i.png",
+    "chef_name": "Olivia Wilson",
+    "years_of_experience": 5,
+    "number_of_recipes": 80,
+    "likes": "1.5K+"
+  }
+]
