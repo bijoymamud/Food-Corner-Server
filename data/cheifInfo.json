@@ -6,56 +6,45 @@
     "years_of_experience": "15 Years",
     "number_of_recipes": "200+",
     "likes": "5K+",
+    "rating": "5",
     "chef_bio": "Our featured food cooker is a culinary maestro who has dedicated their life to the art of gastronomy. With a deep passion for flavors, textures, and presentation, this talented chef has become renowned for their culinary creations that tantalize taste buds and leave a lasting impression.",
     "recipes": [
       {
-        "recipeName": "Chicken Parmesan",
+        "recipeName": "Chicken Parmes",
         "ingredients": [
-          "4 boneless, skinless chicken breasts",
-          "1 cup breadcrumbs",
-          "1/2 cup grated Parmesan cheese",
-          "1/2 cup marinara sauce",
-          "4 slices mozzarella cheese"
+          "Chicken",
+          "Breadcrumbs",
+          "Parmesan cheese",
+          "Sauce",
+          "Mozzarella"
         ]
       },
       {
         "recipeName": "Pasta Carbonara",
-        "ingredients": [
-          "8 oz spaghetti",
-          "4 slices bacon, diced",
-          "3 cloves garlic, minced",
-          "2 large eggs",
-          "1/2 cup grated Parmesan cheese"
-        ]
+        "ingredients": ["Spaghetti", "Bacon", "Minced", "Eggs", "Cheese"]
       },
       {
         "recipeName": "Beef Tacos",
-        "ingredients": [
-          "1 lb ground beef",
-          "1 packet taco seasoning",
-          "12 taco shells",
-          "1 cup shredded lettuce",
-          "1/2 cup diced tomatoes"
-        ]
+        "ingredients": ["Beef", "Seasoning", "Shells", "Lettuce", "Tomatoes"]
       },
       {
         "recipeName": "Garlic Shrimp",
         "ingredients": [
-          "1 lb shrimp, peeled and deveined",
-          "4 cloves garlic, minced",
-          "2 tablespoons butter",
-          "1 tablespoon lemon juice",
-          "Chopped parsley for garnish"
+          "Deveined",
+          "Garlic, minced",
+          "Butter",
+          "Lemon juice",
+          "Garnish"
         ]
       },
       {
-        "recipeName": "Classic Caesar Salad",
+        "recipeName": "Classic Caesar",
         "ingredients": [
-          "1 head romaine lettuce, torn",
-          "1/4 cup grated Parmesan cheese",
-          "1/4 cup croutons",
-          "2 tablespoons Caesar dressing",
-          "1/2 lemon, juiced"
+          "Lettuce, torn",
+          "Parmesan cheese",
+          "Croutons",
+          "Caesar dressing",
+          "Lemon, juiced"
         ]
       }
     ]
@@ -67,56 +56,57 @@
     "years_of_experience": "10 Years",
     "number_of_recipes": "150+",
     "likes": "3K+",
+    "rating": "5",
     "chef_bio": "Our featured food cooker is a culinary maestro who has dedicated their life to the art of gastronomy. With a deep passion for flavors, textures, and presentation, this talented chef has become renowned for their culinary creations that tantalize taste buds and leave a lasting impression.",
     "recipes": [
       {
-        "recipeName": "Chicken Parmesan",
+        "recipeName": "Chicken Parmes",
         "ingredients": [
-          "4 boneless, skinless chicken breasts",
-          "1 cup breadcrumbs",
-          "1/2 cup grated Parmesan cheese",
-          "1/2 cup marinara sauce",
-          "4 slices mozzarella cheese"
+          "Breasts",
+          "Breadcrumbs",
+          "Parmesan cheese",
+          "Marinara sauce",
+          "Nozzarella cheese"
         ]
       },
       {
         "recipeName": "Pasta Carbonara",
         "ingredients": [
-          "8 oz spaghetti",
-          "4 slices bacon, diced",
-          "3 cloves garlic, minced",
-          "2 large eggs",
-          "1/2 cup grated Parmesan cheese"
+          "Spaghetti",
+          "Bacon, diced",
+          "Garlic, minced",
+          "Eggs",
+          "Parmesan cheese"
         ]
       },
       {
         "recipeName": "Beef Tacos",
         "ingredients": [
-          "1 lb ground beef",
-          "1 packet taco seasoning",
+          "Beef",
+          "Seasoning",
           "12 taco shells",
-          "1 cup shredded lettuce",
-          "1/2 cup diced tomatoes"
+          "Lettuce",
+          "Tomatoes"
         ]
       },
       {
         "recipeName": "Garlic Shrimp",
         "ingredients": [
-          "1 lb shrimp, peeled and deveined",
-          "4 cloves garlic, minced",
-          "2 tablespoons butter",
-          "1 tablespoon lemon juice",
-          "Chopped parsley for garnish"
+          "Deveined",
+          "Garlic, minced",
+          "Butter",
+          "Lemon juice",
+          "Garnish"
         ]
       },
       {
-        "recipeName": "Classic Caesar Salad",
+        "recipeName": "Classic Caesar",
         "ingredients": [
-          "1 head romaine lettuce, torn",
-          "1/4 cup grated Parmesan cheese",
-          "1/4 cup croutons",
-          "2 tablespoons Caesar dressing",
-          "1/2 lemon, juiced"
+          "Lettuce, torn",
+          "Parmesan cheese",
+          "Croutons",
+          "Caesar dressing",
+          "Juiced"
         ]
       }
     ]
@@ -128,56 +118,57 @@
     "years_of_experience": "20 Years",
     "number_of_recipes": "300+",
     "likes": "8K+",
+    "rating": "5",
     "chef_bio": "Our featured food cooker is a culinary maestro who has dedicated their life to the art of gastronomy. With a deep passion for flavors, textures, and presentation, this talented chef has become renowned for their culinary creations that tantalize taste buds and leave a lasting impression.",
     "recipes": [
       {
-        "recipeName": "Chicken Parmesan",
+        "recipeName": "Chicken Parmes",
         "ingredients": [
-          "4 boneless, skinless chicken breasts",
-          "1 cup breadcrumbs",
-          "1/2 cup grated Parmesan cheese",
-          "1/2 cup marinara sauce",
-          "4 slices mozzarella cheese"
+          "Breasts",
+          "Breadcrumbs",
+          "Parmesan cheese",
+          "Marinara sauce",
+          "Mozzarella "
         ]
       },
       {
         "recipeName": "Pasta Carbonara",
         "ingredients": [
-          "8 oz spaghetti",
-          "4 slices bacon, diced",
-          "3 cloves garlic, minced",
-          "2 large eggs",
-          "1/2 cup grated Parmesan cheese"
+          "Spaghetti",
+          "Bacon, diced",
+          "Garlic, minced",
+          "Eggs",
+          "Parmesan cheese"
         ]
       },
       {
         "recipeName": "Beef Tacos",
         "ingredients": [
-          "1 lb ground beef",
-          "1 packet taco seasoning",
-          "12 taco shells",
-          "1 cup shredded lettuce",
-          "1/2 cup diced tomatoes"
+          "Ground beef",
+          "Seasoning",
+          "Shells",
+          "Lettuce",
+          "Tomatoes"
         ]
       },
       {
         "recipeName": "Garlic Shrimp",
         "ingredients": [
-          "1 lb shrimp, peeled and deveined",
-          "4 cloves garlic, minced",
-          "2 tablespoons butter",
-          "1 tablespoon lemon juice",
-          "Chopped parsley for garnish"
+          "Deveined",
+          "Garlic, minced",
+          "Butter",
+          "Lemon juice",
+          "Garnish"
         ]
       },
       {
-        "recipeName": "Classic Caesar Salad",
+        "recipeName": "Classic Caesar",
         "ingredients": [
-          "1 head romaine lettuce, torn",
-          "1/4 cup grated Parmesan cheese",
-          "1/4 cup croutons",
-          "2 tablespoons Caesar dressing",
-          "1/2 lemon, juiced"
+          "Lettuce, torn",
+          "Parmesan cheese",
+          "Croutons",
+          "Caesar dressing",
+          "Lemon, juiced"
         ]
       }
     ]
@@ -189,56 +180,51 @@
     "years_of_experience": "8 Years",
     "number_of_recipes": "100+",
     "likes": "2K+",
+    "rating": "5",
     "chef_bio": "Our featured food cooker is a culinary maestro who has dedicated their life to the art of gastronomy. With a deep passion for flavors, textures, and presentation, this talented chef has become renowned for their culinary creations that tantalize taste buds and leave a lasting impression.",
     "recipes": [
       {
-        "recipeName": "Chicken Parmesan",
+        "recipeName": "Chicken Parmes",
         "ingredients": [
-          "4 boneless, skinless chicken breasts",
-          "1 cup breadcrumbs",
-          "1/2 cup grated Parmesan cheese",
-          "1/2 cup marinara sauce",
-          "4 slices mozzarella cheese"
+          "Chicken breasts",
+          "Breadcrumbs",
+          "Parmesan cheese",
+          "Marinara sauce",
+          "Mozzarella cheese"
         ]
       },
       {
         "recipeName": "Pasta Carbonara",
         "ingredients": [
-          "8 oz spaghetti",
-          "4 slices bacon, diced",
-          "3 cloves garlic, minced",
-          "2 large eggs",
-          "1/2 cup grated Parmesan cheese"
+          "Spaghetti",
+          "Bacon, diced",
+          "Garlic, minced",
+          "Eggs",
+          "Parmesan cheese"
         ]
       },
       {
         "recipeName": "Beef Tacos",
-        "ingredients": [
-          "1 lb ground beef",
-          "1 packet taco seasoning",
-          "12 taco shells",
-          "1 cup shredded lettuce",
-          "1/2 cup diced tomatoes"
-        ]
+        "ingredients": ["Beef", "Seasoning", "Shells", "Lettuce", "Tomatoes"]
       },
       {
         "recipeName": "Garlic Shrimp",
         "ingredients": [
-          "1 lb shrimp, peeled and deveined",
-          "4 cloves garlic, minced",
-          "2 tablespoons butter",
-          "1 tablespoon lemon juice",
-          "Chopped parsley for garnish"
+          "Deveined",
+          "Garlic, minced",
+          "Butter",
+          "Lemon juice",
+          "Ggarnish"
         ]
       },
       {
-        "recipeName": "Classic Caesar Salad",
+        "recipeName": "Classic Caesar",
         "ingredients": [
-          "1 head romaine lettuce, torn",
-          "1/4 cup grated Parmesan cheese",
-          "1/4 cup croutons",
-          "2 tablespoons Caesar dressing",
-          "1/2 lemon, juiced"
+          "Cettuce, torn",
+          "Parmesan cheese",
+          "croutons",
+          "Dressing",
+          "Lemon, juiced"
         ]
       }
     ]
@@ -250,56 +236,57 @@
     "years_of_experience": "12 Years",
     "number_of_recipes": "180+",
     "likes": "4K+",
+    "rating": "5",
     "chef_bio": "Our featured food cooker is a culinary maestro who has dedicated their life to the art of gastronomy. With a deep passion for flavors, textures, and presentation, this talented chef has become renowned for their culinary creations that tantalize taste buds and leave a lasting impression.",
     "recipes": [
       {
-        "recipeName": "Chicken Parmesan",
+        "recipeName": "Chicken Parmes",
         "ingredients": [
-          "4 boneless, skinless chicken breasts",
-          "1 cup breadcrumbs",
-          "1/2 cup grated Parmesan cheese",
-          "1/2 cup marinara sauce",
-          "4 slices mozzarella cheese"
+          "Chicken breasts",
+          "Breadcrumbs",
+          "Parmesan cheese",
+          "Marinara sauce",
+          "Mozzarella cheese"
         ]
       },
       {
         "recipeName": "Pasta Carbonara",
         "ingredients": [
-          "8 oz spaghetti",
-          "4 slices bacon, diced",
-          "3 cloves garlic, minced",
-          "2 large eggs",
-          "1/2 cup grated Parmesan cheese"
+          "Spaghetti",
+          "Diced",
+          "Garlic, minced",
+          "Eggs",
+          "Parmesan cheese"
         ]
       },
       {
         "recipeName": "Beef Tacos",
         "ingredients": [
-          "1 lb ground beef",
-          "1 packet taco seasoning",
-          "12 taco shells",
-          "1 cup shredded lettuce",
-          "1/2 cup diced tomatoes"
+          "Beef",
+          "Seasoning",
+          "Shells",
+          "Lettuce",
+          "Diced tomatoes"
         ]
       },
       {
         "recipeName": "Garlic Shrimp",
         "ingredients": [
-          "1 lb shrimp, peeled and deveined",
-          "4 cloves garlic, minced",
-          "2 tablespoons butter",
-          "1 tablespoon lemon juice",
-          "Chopped parsley for garnish"
+          "Deveined",
+          "Garlic, minced",
+          "Bbutter",
+          "Lemon juice",
+          "Garnish"
         ]
       },
       {
         "recipeName": "Classic Caesar Salad",
         "ingredients": [
-          "1 head romaine lettuce, torn",
-          "1/4 cup grated Parmesan cheese",
-          "1/4 cup croutons",
-          "2 tablespoons Caesar dressing",
-          "1/2 lemon, juiced"
+          "Lettuce, torn",
+          "Parmesan cheese",
+          "Croutons",
+          "Caesar dressing",
+          "Lemon, juiced"
         ]
       }
     ]
@@ -311,55 +298,57 @@
     "years_of_experience": "5 Years",
     "number_of_recipes": "80+",
     "likes": "1.5K+",
+    "rating": "5",
+    "chef_bio": "Our featured food cooker is a culinary maestro who has dedicated their life to the art of gastronomy. With a deep passion for flavors, textures, and presentation, this talented chef has become renowned for their culinary creations that tantalize taste buds and leave a lasting impression.",
     "recipes": [
       {
-        "recipeName": "Chicken Parmesan",
+        "recipeName": "Chicken Parmes",
         "ingredients": [
-          "4 boneless, skinless chicken breasts",
-          "1 cup breadcrumbs",
-          "1/2 cup grated Parmesan cheese",
-          "1/2 cup marinara sauce",
-          "4 slices mozzarella cheese"
+          "Chicken breasts",
+          "Breadcrumbs",
+          "Parmesan cheese",
+          "Marinara sauce",
+          "Mozzarella cheese"
         ]
       },
       {
         "recipeName": "Pasta Carbonara",
         "ingredients": [
-          "8 oz spaghetti",
-          "4 slices bacon, diced",
-          "3 cloves garlic, minced",
-          "2 large eggs",
-          "1/2 cup grated Parmesan cheese"
+          "Spaghetti",
+          "Bacon, diced",
+          "Garlic, minced",
+          "Eggs",
+          "Parmesan cheese"
         ]
       },
       {
         "recipeName": "Beef Tacos",
         "ingredients": [
-          "1 lb ground beef",
-          "1 packet taco seasoning",
-          "12 taco shells",
-          "1 cup shredded lettuce",
-          "1/2 cup diced tomatoes"
+          "Beef",
+          "Seasoning",
+          "Shells",
+          "Lettuce",
+          "Diced tomatoes"
         ]
       },
       {
         "recipeName": "Garlic Shrimp",
         "ingredients": [
-          "1 lb shrimp, peeled and deveined",
-          "4 cloves garlic, minced",
-          "2 tablespoons butter",
-          "1 tablespoon lemon juice",
-          "Chopped parsley for garnish"
+          "Peveined",
+          "Garlic, minced",
+          "Butter",
+          "Lemon juice",
+          "Garnish"
         ]
       },
       {
-        "recipeName": "Classic Caesar Salad",
+        "recipeName": "Classic Caesar",
         "ingredients": [
-          "1 head romaine lettuce, torn",
-          "1/4 cup grated Parmesan cheese",
-          "1/4 cup croutons",
-          "2 tablespoons Caesar dressing",
-          "1/2 lemon, juiced"
+          "Lettuce, torn",
+          "Parmesan cheese",
+          "Croutons",
+          "Caesar dressing",
+          "Lemon, juiced"
         ]
       }
     ]
